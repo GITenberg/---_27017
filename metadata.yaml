@@ -1,0 +1,30 @@
+_repo: '---_27017'
+_version: 0.1.0
+alternative_title: Yin Wenzi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yin, Wen
+    alias: 尹文
+    birthdate: -350
+    deathdate: -284
+    gutenberg_agent_id: '32400'
+    url: http://www.gutenberg.org/2009/agents/32400
+description: ''
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27017'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese classics'
+- !lcc 'B'
+- !lcsh 'Philosophy, Chinese'
+- !lcc 'AC'
+title: 尹文子
+url: http://www.gutenberg.org/ebooks/27017
